@@ -52,8 +52,11 @@ To enable the **Generative AI** functionality in the app, you need to provide yo
 2. In this file, locate the following code:
 
 val generativeModel = GenerativeModel(
+
     modelName = "gemini-2.0-flash",
+    
     apiKey = "PASTE YOUR API KEY HERE", // Replace with your actual Gemini 2.0 Flash API key
+    
     generationConfig = config
 )
 
