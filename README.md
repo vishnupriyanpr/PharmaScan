@@ -1,4 +1,4 @@
-# 💊 **MEDISCAN**  
+# 💊 **PHARMASCAN**  
 ## Medicine Strip Scanner 📸🤖 – Redefining Medicine Identification  
 
 **MediScan** is an AI-powered Android application that simplifies medicine recognition by scanning blister strips using Google’s Gemini. It empowers users to understand their medications instantly—just by snapping a photo. 🧠📱  
@@ -13,21 +13,26 @@ It bridges AI and healthcare in a simple, accessible, and powerful way for every
 📸 Capture or upload an image of any medicine strip.  
 🔍 Google Gemini processes the image and identifies the medicine with a detailed explanation.  
 
+
 ### 📋 **No Manual Input Required**  
 💡 Skip typing medicine names—ideal for users with spelling uncertainty or unlabeled tablets.  
 ⚠️ Eliminates errors due to similar drug names or wrong dosage info.
+
 
 ### 🌐 **Real-Time AI Integration**  
 🤖 Built with Google’s Generative AI SDK.  
 ⚡ Provides instant insights and usage instructions based on scanned images.
 
+
 ### 🎨 **Clean, Modern UI**  
 📱 Intuitive and elegant design focused on accessibility.  
 🧭 Streamlined workflow for non-tech-savvy users.
 
+
 ### 🔒 **Data Privacy & Local Control**  
 🛡️ No unnecessary data storage.  
 🚫 All recognition is handled securely with user consent, preserving privacy.
+
 
 ---
 
