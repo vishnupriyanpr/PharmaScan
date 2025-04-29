@@ -46,7 +46,48 @@ The project is featured in the official [MLDP Dec'23 Newsletter](https://medium.
 **Note**: This app is just a proof of concept and should not be used as an actual prescription. Please visit a doctor for any health-related matter.
 
 
+<<<<<<< HEAD
 # Acknowledgment:
 <img src="https://github.com/NSTiwari/Medicine-Scan-with-Gemini/blob/main/google.png">
+=======
+### 🔒 **Data Privacy & Local Control**  
+🛡️ No unnecessary data storage.  
+🚫 All recognition is handled securely with user consent, preserving privacy.
+
+
+---
+
+## 🔧 **Tech Stack**
+
+- 📲 **Android** (Kotlin/Jetpack Compose)  
+- 🔥 **Firebase** (Authentication & Storage)  
+- 🤖 **Google Gemini** Generative AI  
+- 📷 **CameraX** / Image Picker  
+- 📦 **Glide** (Image Loading)
+
+---
+## 🔑 **Set Up Your API Key**
+
+To enable the **Generative AI** functionality in the app, you need to provide your custom API key. Follow these steps:
+1. Open the file located at: app/src/main/java/com/example/pharmascan/GenerativeAiViewModelFactory.kt
+2. In this file, locate the following code:
+val generativeModel = GenerativeModel(
+    modelName = "gemini-2.0-flash",
+    apiKey = "PASTE YOUR API KEY HERE", // Replace with your actual Gemini 2.0 Flash API key
+    generationConfig = config
+)
+
+
+## 💡 **Why MediScan?**
+
+Most existing apps rely on manual input or complex UI, which doesn’t help users with unlabeled medicines or visual-only access. **MediScan** solves this with a smart photo-based solution—quick, simple, and safe.
+
+---
+
+## 🌟 **Join Us!**
+
+Be a part of a smarter healthcare future by making medicine info accessible to everyone with just a photo.  
+Let’s make medication safety smarter—one scan at a time. 📸💊📈  
+>>>>>>> 21253828abca182085c1617d6b8a4b5dc4f2b305
 
 Developed during Google's ML Developer Programs Gemini sprint, this project benefited from generous GCP credits that facilitated its completion. We express our gratitude to the MLDP team for the support provided.
