@@ -61,6 +61,8 @@ val generativeModel = GenerativeModel(
     generationConfig = config
 )
 )
+![Screenshot_20250430_012531](https://github.com/user-attachments/assets/f9b8007c-12d0-4d39-9ca1-763bdb00392f)
+![Screenshot_20250430_012517](https://github.com/user-attachments/assets/7b7ffa2b-8888-4b3e-aa58-31eadaacc3f9)
 
 
 ## 💡 **Why MediScan?**
