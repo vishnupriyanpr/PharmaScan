@@ -11,8 +11,8 @@ It bridges AI and healthcare in a simple, accessible, and powerful way for every
 
 ### 🧠 **AI Medicine Strip Recognition** (via Gemini)
 
-  - 📸 Capture or upload an image of any medicine strip.  
-  -🔍 Google Gemini processes the image and identifies the medicine with a detailed explanation.  
+  - 📸 Capture or upload an image of any medicine strip.
+   -🔍 Google Gemini processes the image and identifies the medicine with a detailed explanation.  
 
 
 ### 📋 **No Manual Input Required**
