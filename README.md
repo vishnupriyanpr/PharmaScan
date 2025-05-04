@@ -18,14 +18,15 @@ It bridges AI and healthcare in a simple, accessible, and powerful way for every
 
 ### 📋 **No Manual Input Required**
 
-  -💡 Skip typing medicine names—ideal for users with spelling uncertainty or unlabeled tablets.  
-  -⚠️ Eliminates errors due to similar drug names or wrong dosage info.
+  - 💡 Skip typing medicine names—ideal for users with spelling uncertainty or unlabeled tablets.  
+  - ⚠️ Eliminates errors due to similar drug names or wrong dosage info.
+
 
 
 ### 🌐 **Real-Time AI Integration**  
 
-  -🤖 Built with Google’s Generative AI SDK.  
-  -⚡Provides instant insights and usage instructions based on scanned images.
+  - 🤖 Built with Google’s Generative AI SDK
+  - ⚡Provides instant insights and usage instructions based on scanned images.
 
 
 ### 🎨 **Clean, Modern UI**  
