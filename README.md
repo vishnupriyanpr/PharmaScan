@@ -58,10 +58,11 @@ Code :-
      # File Location = "app/src/main/java/com/example/pharmascan/GenerativeAiViewModelFactory.kt"
 
      
-        val generativeModel = GenerativeModel(
-        modelName = "gemini-2.0-flash",
-        apiKey = "PASTE YOUR API KEY HERE", // Replace with your actual Gemini 2.0 Flash API key
-        generationConfig = config
+        Line 24 : val generativeModel = GenerativeModel(
+        Line 25 : modelName = "gemini-2.0-flash",
+        Line 26 : apiKey = "PASTE YOUR API KEY HERE", // Replace with your actual Gemini 2.0 Flash API key
+        Line 27 : generationConfig = config
+        Line 28 : )
 
 
 <p align="center">
