@@ -35,8 +35,8 @@ It bridges AI and healthcare in a simple, accessible, and powerful way for every
 
 ### 🔒 **Data Privacy & Local Control**  
 
-  -🛡️ No unnecessary data storage.  
-  -🚫 All recognition is handled securely with user consent, preserving privacy.
+   -🛡️ No unnecessary data storage.  
+   -🚫 All recognition is handled securely with user consent, preserving privacy.
 
 
 ---
