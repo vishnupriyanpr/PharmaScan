@@ -51,18 +51,16 @@ To enable the **Generative AI** functionality in the app, you need to provide yo
 1. Open the file located at: app/src/main/java/com/example/pharmascan/GenerativeAiViewModelFactory.kt
 2. In this file, locate the following code:
 
-(
-val generativeModel = GenerativeModel(
+
+Code :-
 
     modelName = "gemini-2.0-flash",
-    
+    val generativeModel = GenerativeModel(
+    modelName = "gemini-2.0-flash",
     apiKey = "PASTE YOUR API KEY HERE", // Replace with your actual Gemini 2.0 Flash API key
-    
     generationConfig = config
 )
-)
-![Screenshot_20250430_012531](https://github.com/user-attachments/assets/f9b8007c-12d0-4d39-9ca1-763bdb00392f)
-![Screenshot_20250430_012517](https://github.com/user-attachments/assets/7b7ffa2b-8888-4b3e-aa58-31eadaacc3f9)
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f9b8007c-12d0-4d39-9ca1-763bdb00392f" alt="Screenshot 1" width="45%" />
   <img src="https://github.com/user-attachments/assets/7b7ffa2b-8888-4b3e-aa58-31eadaacc3f9" alt="Screenshot 2" width="45%" />
