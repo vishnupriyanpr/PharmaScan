@@ -10,46 +10,46 @@ It bridges AI and healthcare in a simple, accessible, and powerful way for every
 ## 🚀 **Key Features**
 
 ### 🧠 **AI Medicine Strip Recognition** (via Gemini)  
-     📸 Capture or upload an image of any medicine strip.  
-     🔍 Google Gemini processes the image and identifies the medicine with a detailed explanation.  
+   📸 Capture or upload an image of any medicine strip.  
+   🔍 Google Gemini processes the image and identifies the medicine with a detailed explanation.  
 
 
 ### 📋 **No Manual Input Required**  
-     💡 Skip typing medicine names—ideal for users with spelling uncertainty or unlabeled tablets.  
-     ⚠️ Eliminates errors due to similar drug names or wrong dosage info.
+   💡 Skip typing medicine names—ideal for users with spelling uncertainty or unlabeled tablets.  
+   ⚠️ Eliminates errors due to similar drug names or wrong dosage info.
 
 
 ### 🌐 **Real-Time AI Integration**  
-🤖 Built with Google’s Generative AI SDK.  
-⚡ Provides instant insights and usage instructions based on scanned images.
+   🤖 Built with Google’s Generative AI SDK.  
+   ⚡ Provides instant insights and usage instructions based on scanned images.
 
 
 ### 🎨 **Clean, Modern UI**  
-📱 Intuitive and elegant design focused on accessibility.  
-🧭 Streamlined workflow for non-tech-savvy users.
+   📱 Intuitive and elegant design focused on accessibility.  
+   🧭 Streamlined workflow for non-tech-savvy users.
 
 
 ### 🔒 **Data Privacy & Local Control**  
-🛡️ No unnecessary data storage.  
-🚫 All recognition is handled securely with user consent, preserving privacy.
+   🛡️ No unnecessary data storage.  
+   🚫 All recognition is handled securely with user consent, preserving privacy.
 
 
 ---
 
 ## 🔧 **Tech Stack**
 
-- 📲 **Android** (Kotlin/Jetpack Compose)  
-- 🔥 **Firebase** (Authentication & Storage)  
-- 🤖 **Google Gemini** Generative AI  
-- 📷 **CameraX** / Image Picker  
-- 📦 **Glide** (Image Loading)
+   - 📲 **Android** (Kotlin/Jetpack Compose)  
+   - 🔥 **Firebase** (Authentication & Storage)  
+   - 🤖 **Google Gemini** Generative AI  
+   - 📷 **CameraX** / Image Picker  
+   - 📦 **Glide** (Image Loading)
 
 ---
 ## 🔑 **Set Up Your API Key**
 
-To enable the **Generative AI** functionality in the app, you need to provide your custom API key. Follow these steps:
-1. Open the file located at : app/src/main/java/com/example/pharmascan/GenerativeAiViewModelFactory.kt
-2. In this file, locate the following code:
+   To enable the **Generative AI** functionality in the app, you need to provide your custom API key. Follow these steps:
+     1. Open the file located at : app/src/main/java/com/example/pharmascan/GenerativeAiViewModelFactory.kt
+     2. In this file, locate the following code:
 
 
 Code :-
