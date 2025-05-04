@@ -31,14 +31,14 @@ It bridges AI and healthcare in a simple, accessible, and powerful way for every
 
 ### 🎨 **Clean, Modern UI**  
 
-  -📱 Intuitive and elegant design focused on accessibility.  
-  -🧭 Streamlined workflow for non-tech-savvy users.
+  - 📱 Intuitive and elegant design focused on accessibility.
+  - 🧭 Streamlined workflow for non-tech-savvy users.
 
 
 ### 🔒 **Data Privacy & Local Control**  
-
-   -🛡️ No unnecessary data storage.  
-   -🚫 All recognition is handled securely with user consent, preserving privacy.
+  - 🛡️ No unnecessary data storage.
+  - 🚫 All recognition is handled securely with user consent, preserving privacy.
+    
 
 
 ---
