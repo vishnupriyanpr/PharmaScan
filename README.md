@@ -90,3 +90,22 @@ Most existing apps rely on manual input or complex UI, which doesn’t help user
 Be a part of a smarter healthcare future by making medicine info accessible to everyone with just a photo.  
 Let’s make medication safety smarter—one scan at a time. 📸💊📈  
 
+## Credits 🙌
+<div align="center">
+  <table style="width:100%;">
+    <tr>
+      <td align="center" style="width:50%;">
+        <a href="https://github.com/vishnupriyanpr">
+                  <img src="https://github.com/vishnupriyanpr.png?size=120" width="120px;" alt="Vishnupriyan P R"/>
+      </a>
+      </td>
+      <td align="center" style="width:50%;">
+        <blockquote>
+          <p>“Tools should disappear into the background and let you build.”</p>
+          <footer>— Vishnupriyan P R, <i>caffeinated coder ☕</i></footer>
+        </blockquote>
+      </td>
+    </tr>
+  </table>
+</div>
+
